@@ -21,13 +21,13 @@ export default function Footer() {
                             <Col lg={3}>
                                 <p>Queens
                                     47-33 Fake Street
-                                    Long Island City, NY — 11101
+                                    Long Island, WA — 11101
                                     (347) 555-1234</p>
                             </Col>
                             <Col lg={3}>
                                 <p>Food Truck
-                                    25 Fake Street
-                                    New York, NY — 10003
+                                    25 Gaurab Street
+                                    Kathmandu, NEPAL — 10003
                                     (917) 555-1234</p>
                             </Col>
                         </Row>
