@@ -58,9 +58,9 @@ class Header extends Component {
                             </Link>
                         </Nav.Link>
                         <Nav.Link className='my-auto'>
-                            <Link to='reservation' href='https://namaste-restaurant.resos.com/booking' onClick={(e) => {
+                            <Link to='reservation' href='https://namaste-cafe-and-restaurant.resos.com/booking' onClick={(e) => {
                                 e.preventDefault();
-                                window.location.href='https://namaste-restaurant.resos.com/booking';
+                                window.location.href='https://namaste-cafe-and-restaurant.resos.com/booking';
                                 }} className='text-secondary'>
                                 Reservation
                             </Link>
