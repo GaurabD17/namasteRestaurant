@@ -35,19 +35,19 @@ const initialState = {
             description: 'with shrimp in a tamarind sauce',
             meal: 'appetizer'
         },
-        'Fried Tiger Shrimp Rolls': {
+        'Fried Nepali Fish': {
             num: 0,
-            img: 'https://media1.fdncms.com/riverfronttimes/imager/u/original/2633986/sushi_house_white_tiger.jpg',
-            title: 'Fried Tiger Shrimp Rolls',
-            price: '6.50',
+            img: 'http://www.gfcookingclub.com/wp-content/uploads/2012/06/fish_fry_small.jpg',
+            title: 'Fried Nepali Fish',
+            price: '12.50',
             description: 'with a plum sauce',
             meal: 'appetizer'
         },
         'Duck Choila': {
             num: 0,
             img: 'https://www.chefspencil.com/wp-content/uploads/choila.jpg',
-            title: 'duck choila',
-            price: '8.95',
+            title: 'Duck choila',
+            price: '18.95',
             description: 'glazed and grilled marinated chicken',
             meal: 'appetizer'
         },
@@ -55,7 +55,7 @@ const initialState = {
             num: 0,
             img: 'https://lh4.googleusercontent.com/-9RVnw7daF7E/Tt_LUL1MiRI/AAAAAAAAAY0/m_HgPE5X7IM/s1600/Newarithali.jpg',
             title: 'Khaja Set',
-            price: '7.95',
+            price: '17.95',
             description: 'khaja set comes in chicken, chiura and others',
             meal: 'main'
         },
