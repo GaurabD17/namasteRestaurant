@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/namasteRestaurant/static/css/main.a5dea1d5.chunk.css",
-    "main.js": "/namasteRestaurant/static/js/main.72ecc0f6.chunk.js",
-    "main.js.map": "/namasteRestaurant/static/js/main.72ecc0f6.chunk.js.map",
+    "main.js": "/namasteRestaurant/static/js/main.a98ee30e.chunk.js",
+    "main.js.map": "/namasteRestaurant/static/js/main.a98ee30e.chunk.js.map",
     "runtime~main.js": "/namasteRestaurant/static/js/runtime~main.c02b18d2.js",
     "runtime~main.js.map": "/namasteRestaurant/static/js/runtime~main.c02b18d2.js.map",
     "static/css/2.266e55a5.chunk.css": "/namasteRestaurant/static/css/2.266e55a5.chunk.css",
     "static/js/2.d94f6b1d.chunk.js": "/namasteRestaurant/static/js/2.d94f6b1d.chunk.js",
     "static/js/2.d94f6b1d.chunk.js.map": "/namasteRestaurant/static/js/2.d94f6b1d.chunk.js.map",
     "index.html": "/namasteRestaurant/index.html",
-    "precache-manifest.ac0402dea61ab4f2cefe38ab0c57689c.js": "/namasteRestaurant/precache-manifest.ac0402dea61ab4f2cefe38ab0c57689c.js",
+    "precache-manifest.3807a878ec3204bb3b44338217256f3b.js": "/namasteRestaurant/precache-manifest.3807a878ec3204bb3b44338217256f3b.js",
     "service-worker.js": "/namasteRestaurant/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/namasteRestaurant/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.a5dea1d5.chunk.css.map": "/namasteRestaurant/static/css/main.a5dea1d5.chunk.css.map",
-    "static/media/card_home_1.jpg": "/namasteRestaurant/static/media/card_home_1.d6dd31e9.jpg",
-    "static/media/card_home_2.jpg": "/namasteRestaurant/static/media/card_home_2.0e6bbf23.jpg",
-    "static/media/card_home_3.jpg": "/namasteRestaurant/static/media/card_home_3.2c501851.jpg",
-    "static/media/home_kitchen.jpg": "/namasteRestaurant/static/media/home_kitchen.0630472d.jpg",
-    "static/media/home_sitting.jpg": "/namasteRestaurant/static/media/home_sitting.614391b9.jpg",
-    "static/media/home_top.jpg": "/namasteRestaurant/static/media/home_top.ad45fbbc.jpg",
-    "static/media/menu_top.jpg": "/namasteRestaurant/static/media/menu_top.a49fa35a.jpg"
+    "static/media/card_home_1.jpg": "/namasteRestaurant/static/media/card_home_1.f176b76b.jpg",
+    "static/media/card_home_2.jpg": "/namasteRestaurant/static/media/card_home_2.3a99f59f.jpg",
+    "static/media/card_home_3.jpg": "/namasteRestaurant/static/media/card_home_3.2930914b.jpg",
+    "static/media/home_kitchen.jpg": "/namasteRestaurant/static/media/home_kitchen.9d99e494.jpg",
+    "static/media/home_sitting.jpg": "/namasteRestaurant/static/media/home_sitting.a80934e8.jpg",
+    "static/media/home_top.jpg": "/namasteRestaurant/static/media/home_top.5c8f279d.jpg",
+    "static/media/menu_top.jpg": "/namasteRestaurant/static/media/menu_top.020309c1.jpg"
   }
 }
